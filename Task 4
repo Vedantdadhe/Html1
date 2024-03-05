@@ -1,0 +1,60 @@
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Your Name - Web Developer</title>
+</head>
+<body>
+    <header>
+        <div class="hero">
+            <img src="your-photo.jpg" alt="Your Name - Web Developer">
+            <div class="hero-text">
+                <h1>Your Name</h1>
+                <p>Web Developer</p>
+            </div>
+        </div>
+    </header>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML5</li>
+            <li>CSS3</li>
+            <li>JavaScript</li>
+            <li>React</li>
+            <!-- Add more skills as needed -->
+        </ul>
+    </section>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>
+            Hello! I'm Your Name, a passionate web developer with a strong foundation in front-end and
+            back-end technologies. I hold a degree in Computer Science from XYZ University and have
+            gained valuable experience working on various web projects.
+        </p>
+        <!-- Add more details about your education and professional experience -->
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="project">
+            <h3>Project 1</h3>
+            <p>Description of Project 1. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        </div>
+        <div class="project">
+            <h3>Project 2</h3>
+            <p>Description of Project 2. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        </div>
+        <!-- Add more projects with details -->
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Your Name - Web Developer. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+```
